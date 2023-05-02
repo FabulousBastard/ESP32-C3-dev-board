@@ -2,5 +2,10 @@
 
 does not work
 
-![alt text](https://github.com/FabulousBastard/ESP32-C3-dev-board/blob/main/20230407_103554.jpg?raw=true)
-<img src="https://github.com/FabulousBastard/ESP32-C3-dev-board/blob/main/20230407_103554.jpg" width="200" />
+<img src="https://github.com/FabulousBastard/ESP32-C3-dev-board/blob/main/20230407_103554.jpg" width="300" />
+
+<img src="https://github.com/FabulousBastard/ESP32-C3-dev-board/blob/main/20230407_144617.jpg" width="300" />
+
+<img src="https://github.com/FabulousBastard/ESP32-C3-dev-board/blob/main/20230412_091845.jpg" width="300" />
+
+<img src="https://github.com/FabulousBastard/ESP32-C3-dev-board/blob/main/20230412_092052.jpg" width="300" />
