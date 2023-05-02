@@ -1,6 +1,14 @@
 # ESP32-C3-dev-board
 
 does not work
+  - get's power 
+  - isn't recognized by Windows
+  
+ possibel reasons 
+  - soldering error
+  - PCB design 
+  - wong part's selection 
+  - software issue 
 
 
 
