@@ -2,10 +2,14 @@
 
 does not work
 
-<img src="https://github.com/FabulousBastard/ESP32-C3-dev-board/blob/main/20230407_103554.jpg" width="250" rotate="90" />
+<picture>
 
-<img src="https://github.com/FabulousBastard/ESP32-C3-dev-board/blob/main/20230407_144617.jpg" width="250" />
+  <img src="https://github.com/FabulousBastard/ESP32-C3-dev-board/blob/main/20230407_103554.jpg" width="250" style="translate: rotate(90)"/>
 
-<img src="https://github.com/FabulousBastard/ESP32-C3-dev-board/blob/main/20230412_091845.jpg" width="300" />
+  <img src="https://github.com/FabulousBastard/ESP32-C3-dev-board/blob/main/20230407_144617.jpg" width="250" />
 
-<img src="https://github.com/FabulousBastard/ESP32-C3-dev-board/blob/main/20230412_092052.jpg" width="300" />
+  <img src="https://github.com/FabulousBastard/ESP32-C3-dev-board/blob/main/20230412_091845.jpg" width="300" />
+
+  <img src="https://github.com/FabulousBastard/ESP32-C3-dev-board/blob/main/20230412_092052.jpg" width="300" />
+
+ </picture>
