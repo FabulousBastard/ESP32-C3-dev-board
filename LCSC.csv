@@ -1,0 +1,20 @@
+LCSC Part Number,Manufacture Part Number,Manufacturer,Customer NO.,Package,Description,RoHS,Order Qty.,Min\Mult Order Qty.,Unit Price,Order Price
+C319148,U262-161N-4BVC11,XKB Connectivity,001,SMD,3A USB 3.1 1 260℃ Surface Mount 16 Female -40℃~+85℃ Gold Copper Alloy Type-C SMD  USB Connectors ROHS,YES,2,1\1,0.402600,0.81
+C2858491,ESP32-C3FH4,Espressif Systems,001,QFN-32-EP(5x5)," QFN-32-EP(5x5)  RF Transceiver ICs ROHS",YES,2,1\1,1.968000,3.94
+C9055,SPX3819M5-L-3-3/TR,MaxLinear,001,SOT-23-5,500mA 70dB Fixed 3.3V~3.3V Positive 16V SOT-23-5  Linear Voltage Regulators (LDO) ROHS,YES,5,5\5,0.167900,0.84
+C7519,USBLC6-2SC6,STMicroelectronics,001,SOT-23-6,6V 17V Unidirectional 5.25V SOT-23-6  ESD Protection Devices ROHS,YES,5,5\5,0.128900,0.64
+C2940200,TAXM40M4SCBDDT2T,TAE(Zhejiang Abel Elec),001,SMD2520-4P,40MHz 9pF ±10ppm SMD2520-4P  Crystals ROHS,YES,5,5\5,0.110700,0.55
+C455091,TS-1002-05026,XUNPU,001,"Plugin,6x6mm","50mA Straight SPST 12V Plugin,6x6mm  Tactile Switches ROHS",YES,10,10\10,0.040400,0.40
+C346308,FEC0603CP-2N2G-LRH,PSA(Prosperity Dielectrics),001,0603,700mA 2.2nH ±2% 5mΩ 0603  Inductors (SMD) ROHS,YES,10,10\10,0.041400,0.41
+C2337,C2337,BOOMELE(Boom Precision Elec),001,"Plugin,P=2.54mm","3A Straight Square Pins -25℃~+85℃ 40 2.54mm Plugin Black 1x40P Plugin,P=2.54mm  Pin Headers ROHS",YES,5,5\5,0.113700,0.57
+C2846646,SML-311UTT86J,ROHM Semicon,001,0603,-30℃~+85℃ 620nm~630nm Orange-red 44mW 0603  Light Emitting Diodes (LED) ROHS,YES,5,5\5,0.143900,0.72
+C2980184,19-217/GHC-YN1P2B18X/3T,Everlight Elec,001,0603,Colorless transparence -40℃~+85℃ Positive post 520nm~535nm Emerald 120° 95mW 0603  Light Emitting Diodes (LED) ROHS,YES,5,5\5,0.087100,0.44
+C321446,RC-02W3240FT,FH (Guangdong Fenghua Advanced Tech),001,0402,62.5mW ±1% ±200ppm/℃ 324Ω 0402  Chip Resistor - Surface Mount ROHS,YES,100,100\100,0.000400,0.04
+C25543,0402WGJ0102TCE,UNI-ROYAL(Uniroyal Elec),001,0402,62.5mW Thick Film Resistors ±100ppm/℃ ±5% 1kΩ 0402  Chip Resistor - Surface Mount ROHS,YES,200,100\100,0.000400,0.08
+C25152,0402WGJ0220TCE,UNI-ROYAL(Uniroyal Elec),001,0402,62.5mW Thick Film Resistors ±100ppm/℃ ±5% 22Ω 0402  Chip Resistor - Surface Mount ROHS,YES,100,100\100,0.000400,0.04
+C2906948,FRC0402J512 TS,FOJAN,001,0402,62.5mW Thick Film Resistors ±100ppm/℃ ±5% 5.1kΩ 0402  Chip Resistor - Surface Mount ROHS,YES,100,100\100,0.000500,0.05
+C123483,0402N3R3B500CT,Walsin Tech Corp,001,0402,50V 3.3pF NP0 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,YES,100,100\100,0.002200,0.22
+C161507,GRM1552C1H8R0BA01D,Murata Electronics,001,0402,50V 8pF CH 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,YES,50,50\50,0.006900,0.35
+C392963,TCC0402X7R104K160AT,CCTC,001,0402,16V 100nF X7R ±10% 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,YES,100,100\100,0.000900,0.09
+C5252392,V106M0402X5R100NCT,VIIYONG,001,0402,10V 10uF X5R 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,YES,50,50\50,0.009700,0.49
+C629442,MCP23S17T-E/ML,Microchip Tech,001,QFN-28-EP(6x6),10MHz SPI QFN-28-EP(6x6)  I/O Expanders ROHS,YES,2,1\1,5.956400,11.91
